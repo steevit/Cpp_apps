@@ -1,0 +1,30 @@
+Typ zmiennych o nazwie char przechowuje:
+liczby calkowite
+napisy
+liczby zmiennoprzecinkowe
+pojedyncze znaki
+d
+Wstrzymanie wykonania programu na czas 5 sekund uzyskasz instrukcja:
+Wait(5000)
+Stop(5000)
+Delay(5000)
+Sleep(5000)
+d
+Ktora deklaracja jest zapisana poprawnie?
+int x;
+integer x;
+x:integer;
+x=integer;
+a
+Z jakiego przedzialu zostanie wylosowana liczba: rand()%20+3
+0..19
+3..19
+3..21
+0..21
+c
+Ile razy wykona sie petla: for (int i=5; i>=-3; i--)
+ani razu
+nieskonczenie wiele razy
+8
+9
+d
